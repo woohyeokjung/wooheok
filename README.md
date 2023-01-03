@@ -1,2 +1,2 @@
 # woohyeok
-Use machine learning for prediction abandoned dogs
+Using machine learning to predict adoption probability of abandoned dogs
